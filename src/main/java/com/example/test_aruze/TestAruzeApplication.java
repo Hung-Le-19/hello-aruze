@@ -15,6 +15,6 @@ public class TestAruzeApplication {
 
     @GetMapping("/hello")
     public String message(){
-        return "Hello Hungle";
+        return "Hello Hungle 1234";
     }
 }
